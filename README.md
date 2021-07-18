@@ -67,7 +67,7 @@
 <img width = "80%" src = "https://user-images.githubusercontent.com/78335072/125725752-61370b16-8adb-44b7-b550-aeaedc7e0134.gif">
 
 ### :sunflower: 공지사항 검색하기
-<img width = "80%" src = "https://user-images.githubusercontent.com/78335072/125725752-61370b16-8adb-44b7-b550-aeaedc7e0134.gif">
+<img width = "80%" src = "https://user-images.githubusercontent.com/78335072/126073124-0c71f339-00a4-4a8a-b89f-1c5507901580.gif">
 
 ## :small_orange_diamond: 공지사항 좋아요 및 공유 기능
 ### :sunflower: 좋아요 및 공유하기
